@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Otajstva"
+    android:background="@drawable/gradient">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp">
+        <RadioButton
+            android:id="@+id/radosna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Radosna otajstva (ponedjeljak i subota)"
+            android:textSize="18sp"/>
+        <RadioButton
+            android:id="@+id/zalosna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Žalosna otajstva (utorak i petak)"
+            android:textSize="18sp"/>
+        <RadioButton
+            android:id="@+id/slavna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Slavna otajstva (srijeda i nedjelja)"
+            android:textSize="18sp"/>
+        <RadioButton
+            android:id="@+id/svjetla"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Otajstva svjetla (četvrtak)"
+            android:textSize="18sp"/>
+    </RadioGroup>
+        <Button
+        android:id="@+id/vrata_button"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/exit"/>
+</RelativeLayout>

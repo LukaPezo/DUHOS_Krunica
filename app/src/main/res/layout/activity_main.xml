@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/gradient"
+    >
+
+    <ImageView
+        android:id="@+id/krunica_image"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/krunica" />
+
+    <TextView
+        android:id="@+id/naslov"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Znak Križa"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:textSize="23sp"
+        android:layout_below="@id/krunica_image"/>
+    <TextView
+        android:id="@+id/text_molitva"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/naslov"
+        android:text="@string/ZnakKriza"
+        android:layout_above="@+id/buttons"
+        android:layout_marginBottom="10px"
+        android:layout_marginTop="10px"
+        android:scrollbars="vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_centerVertical="true"/>
+
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+    <Button
+        android:id="@+id/button_next"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/next"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <Button
+        android:id="@+id/button_previous"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/previous"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <Button
+        android:id="@+id/button_exit"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/exit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        />
+
+    </RelativeLayout>
+</RelativeLayout>

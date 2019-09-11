@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/who_called"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Što moliš?"
+            android:layout_centerHorizontal="true"
+            />
+
+
+        <RadioGroup
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/radioGroupCalls"
+            android:orientation="horizontal"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/who_called"
+            >
+            <RadioButton
+                android:id="@+id/callWe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Krunicu"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginEnd="20dp"
+                />
+            <RadioButton
+                android:id="@+id/callThem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginStart="20dp"
+                />
+        </RadioGroup>
+
+    </RelativeLayout>
+</RelativeLayout>

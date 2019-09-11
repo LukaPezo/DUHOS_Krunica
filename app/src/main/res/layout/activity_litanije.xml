@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Litanije"
+    android:background="@drawable/gradient">
+
+    <RelativeLayout
+        android:id="@+id/litanije"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/izborLitanija"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Izaberi litanije koje želiš moliti:"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="#000000"
+            android:textSize="23sp"/>
+
+        <RadioGroup
+            android:id="@+id/radioButtonsLitanije"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/izborLitanija"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp">
+            <RadioButton
+                android:id="@+id/litanijeMajci"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije Majke Božje"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeDuhuSvetomeI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije Duhu Svetome I"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeDuhuSvetomeII"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije Duhu Svetome II"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeJosipu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije sv.Josipa"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeKrvi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije Krvi Kristovoj"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeMihaelu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije sv.Mihaleu Arkanđelu"
+                android:textSize="18sp"/>
+            <RadioButton
+                android:id="@+id/litanijeRiti"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Litanije sv.Riti"
+                android:textSize="18sp"/>
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/litanijeExit2"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/exit"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

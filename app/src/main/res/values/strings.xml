@@ -1,0 +1,660 @@
+<resources>
+    <string name="app_name">Krunica</string>
+
+    <string name="OčeNaš">Oče naš, koji jesi na nebesima, sveti se ime Tvoje, dođi kraljevstvo Tvoje, budi volja Tvoja, kako na nebu, tako i na zemlji. Kruh naš svagdanji daj nam danas, i otpusti nam duge naše, kako i mi otpuštamo dužnicima našim, i ne uvedi nas u napast, nego izbavi nas od Zla! Amen.</string>
+    <string name="Vjerovanje">Vjerujem u Boga, Oca svemogućega, Stvoritelja neba i zemlje. I u Isusa Krista, Sina njegova jedinoga, Gospodina našega, koji je začet po Duhu Svetom, rođen od Marije Djevice, mučen pod Poncijem Pilatom, raspet, umro i pokopan; sašao nad pakao; treći dan uskrsnuo od mrtvih; uzašao na nebesa, sjedi o desnu Boga Oca svemogućega; odonud će doći suditi žive i mrtve. Vjerujem u Duha Svetoga, svetu Crkvu katoličku, općinstvo svetih, oproštenje grijeha, uskrsnuće tijela, i život vječni. Amen.</string>
+    <string name="ZdravoMarijo">Zdravo Marijo, milosti puna, Gospodin s tobom. Blagoslovljena ti među ženama i blagoslovljen plod utrobe tvoje, Isus. Sveta Marijo, Majko Božja, moli za nas grešnike, sada i na času smrti naše. Amen.</string>
+    <string name="SlavaOcu">Slava Ocu i Sinu i Duhu Svetomu. Kako bijaše na početku, tako i sada i vazda i u vijeke vjekova. Amen.</string>
+    <string name="ZnakKriza">Znak svetog križa: U ime + Oca i Sina i Duha Svetoga. Amen.</string>
+    <string name="MojIsuse">O moj Isuse, oprosti nam naše grijehe, očuvaj nas od paklenoga ognja, dovedi u raj sve duše, osobito one kojima je najpotrebnije tvoje milosrđe.</string>
+    <string name="ZdravoKraljice">Zdravo Kraljice, Majko milosrđa, živote, slasti i ufanje naše, zdravo! K tebi vapimo prognani sinovi Evini. K tebi uzdišemo tugujući i plačući u ovoj suznoj dolini. Svrni, dakle, zagovornice naša, one svoje milostive oči na nas, te nam poslije ovoga progonstva pokaži Isusa, blagoslovljeni plod utrobe svoje. O blaga, o mila, o slatka Djevice Marijo!</string>
+    <string name="radosna1"> Koga si, Djevice, po Duhu Svetom začela.</string>
+    <string name="radosna2"> Koga si, Djevice, Elizabeti u pohode nosila.</string>
+    <string name="radosna3"> Koga si, Djevice, rodila.</string>
+    <string name="radosna4"> Koga si, Djevice, u hramu prikazala.</string>
+    <string name="radosna5"> Koga si, Djevice, u hramu našla.</string>
+    <string name="zalosna1"> Koji se za nas krvavim znojem znojio.</string>
+    <string name="zalosna2"> Koji je za nas bičevan bio.</string>
+    <string name="zalosna3"> Koji je za nas trnjem okrunjen bio.</string>
+    <string name="zalosna4"> Koji je za nas teški križ nosio.</string>
+    <string name="zalosna5"> Koji je za nas raspet bio.</string>
+    <string name="slavna1"> Koji je od mrtvih uskrsnuo.</string>
+    <string name="slavna2"> Koji je na nebo uzašao.</string>
+    <string name="slavna3"> Koji je Duha Svetoga poslao.</string>
+    <string name="slavna4"> Koji je tebe, Djevice, na nebo uzeo.</string>
+    <string name="slavna5"> Koji je tebe, Djevice, na nebu okrunio.</string>
+    <string name="svjetla1"> Koji je na rijeci Jordanu kršten bio.</string>
+    <string name="svjetla2"> Koji nam se na svadbi u Kani objavio.</string>
+    <string name="svjetla3"> Koji nam je kraljevstvo Božje navijestio i na obraćenje nas pozvao.</string>
+    <string name="svjetla4"> Koji se na gori preobrazio i svoju nam slavu objavio.</string>
+    <string name="svjetla5"> Koji nam se u otajstvu euharistije darovao.</string>
+
+    <string name="MiliJosipe">O mili, blagi, strpljivi i ponizni sveti Josipe uzmi nas sve za svoju djecu i budi nam uvijek dobar i vjeran otac. Amen.</string>
+    <string name="ZdravoJosipe">Zdravo Josipe pravedni, zaručniče svete Bogorodice, djevičanski Oče Isusa Krista, Sveti Josipe, moli za nas da po tvome primjeru sveto živimo i u nebu vječno blaženstvo zadobijemo. Amen.</string>
+    <string name="BožeOče">Bože Oče, nestvorena tvoja Riječ udostojala se u tišini zaodjenuti slabom ljudskom naravi u skrovitosti nazaretskog doma u kojem je sveti Josip bio glavar; po njegovu zagovoru stišaj u nama buku strasti, neurednih nagnuća, da svojim govorom častimo samo Tebe, koji živiš i kraljuješ u vijeke vjekova. Amen.</string>
+
+    <string name="VječniOče">Vječni Oče, prikazujem ti tijelo i krv, dušu i božanstvo preljubljenoga Sina tvojega, Gospodina našega Isusa Krista, kao zadovoljštinu za grijehe naše i cijeloga svijeta.</string>
+    <string name="PoNjegovojPregorkojMuci">Po njegovoj pregorkoj muci, budi milosrdan nama i cijelomu svijetu.</string>
+    <string name="SvetiBože">Sveti Bože, sveti jaki Bože, sveti besmrtni Bože, smiluj se nama i cijelome svijetu.</string>
+    <string name="KrviIVodo">O, Krvi i Vodo što potekoste iz Srca Isusova kao izvor milosrđa za nas, uzdam se u tebe! Marijo, Majko milosrđa, moli za nas! Isuse, uzdam se u tebe! Isuse, uzdam se u tebe! Isuse, uzdam se u tebe! Smiluj se nama i cijelomu svijetu, Gospodine!</string>
+
+    <string name="SlatkoSrce">Slatko Srce mog Isusa, daj da te ljubim sve to više!</string>
+    <string name="VječniOčeSrce">Vječni Oče, prikazujem ti predragocjenu krv Isusa Krista kao zadovoljštinu za naše grijehe, kao pomoć dušama u čistilištu, i za potrebe svete Crkve.</string>
+    <string name="IsuseBlagaIPoniznaSrca">Isuse blaga i ponizna Srca, učini srce moje po Srcu svome.</string>
+    <string name="SlatkoSrceMarijino">Slatko Srce Marijino, budi moje spasenje!</string>
+
+    <string name="Prežalosno">Prežalosno i bezgrešno Srce Marijino, moli za one koji se tebi utječu!</string>
+    <string name="PresvetaMajko">Presveta Majko, spasi nas plamenom ljubavi svog bezrešnog Srca!</string>
+
+    <string name="litanijeDuhuSvetomI"> Gospodine, smiluj se,\n Kriste, smiluj se.\n Gospodine, smiluj se.\n Oče, nebeski, Bože, Smiluj nam se,\n Sine, Otkupitelju svijeta, Bože, Smiluj nam se.\n Duše Sveti, Bože, Smiluj nam se,\n Sveto Trojstvo, jedan Bože, Smiluj nam se.\n\n
+
+Duše, koji od Oca i Sina izlaziš, Smiluj nam se \n
+Duše, koji si s Ocem i sinom zajedničar iste slave,\n
+Duše, koji si govorio po prorocima,\n
+Duše, koji na Isusu počivaš,\n
+Duše, koji u Crkvi živiš,\n
+Duše, koji nas s Kristom sjedinjuješ,\n\n
+
+Ti, Daru Boga živoga,\n
+Ti, duhu života,\n
+Ti, vatro s neba,\n
+Ti, prisutni u kršćanima,\n
+Ti, pomoćniče u molitvi\n\n
+
+Ti, založe otkupljenja,\n\n
+
+Duše znanja i mudrosti,\n
+Duše savjeta i jakosti,\n
+Duše spoznanja i pobožnosti,\n
+Duše straha Božjega,\n
+Duše vjere i nade\n
+Duše ljubavi,\n\n
+
+Utjeho napuštenih,\n
+Životvorni izvoru u pustinji,\n
+Skrivena snago u slabima,\n
+Tiha silo u strpljivima,\n
+Radosti djece Božje,\n
+Gostu prijatelja Isusovih,\n
+
+Duše, koji mijenjaš ljudska srca,\n
+Duše, koji nam otvaraš oči,\n
+Duše, koji nam liječiš uši,\n
+Duše, koji nam odrješuješ jezik,\n
+Duše u kojem smo pomazani,\n
+Duše, u kojem imamo poslanje,\n\n
+
+Ti, pomirenje grešnika,\n
+Ti, pomoći priznavalaca,\n
+Ti, učitelju Kristovih svjedoka,\n
+Ti, snago ljubavi prema bližnjemu i jakosti mučenika,\n
+Ti, milino sviju svetih,\n\n
+
+Duše istine,\n
+Duše, jakosti,\n
+Duše milosrđa,\n
+Duše slobode,\n
+Duše jedinstva,\n
+Duše svetosti,\n\n
+
+Na sljedeće zazive odgovaramo: Oslobodi nas, Duše Sveti!\n\n
+
+Od svakoga zla:\n
+Od svakoga grijeha:\n
+Od nevjere i praznovjerja:\n
+Od očaja i preuzetnosti:\n
+Od duha mržnje i osvete:\n
+Od duha zavisti i ljubomore:\n
+Od duha oholosti:\n
+Od zatvorenosti za istinu:\n
+Od svake neumjerenosti:\n
+Od duha bludnosti:\n
+Od svakoga straha:\n
+Od svađe i zavade:\n
+Od tromosti i mlakosti:\n
+Od nemara za nadahnuća tvoja:\n
+Od zatvorenosti za ljubav:\n\n
+
+Na sljedeće zazive odgovaramo: Dođi, Duše Sveti!\n\n
+
+Obnovi lice zemlje:\n
+Stanuj u našim srcima:\n
+Zapali oganj svoje ljubavi:\n
+Nauči nas moliti:\n
+Pomozi nam kad smo slabi:\n
+Tješi nas kao tješitelj:\n
+Daj nam čisto srce:\n
+U tjeskobi budi s nama:\n
+Vodi nas putovima svojim:\n
+Otkrivaj što nam je činiti:\n
+Oduševi nas za Kraljevstvo Božje:\n
+Sjedini sve kršćane:\n
+Posveti svoju Crkvu:\n
+Dovrši što si u nama započeo:\n\n
+
+Na sljedeće zazive odgovaramo: Molimo te, Duše Sveti!\n\n
+
+Da budemo prava crkva Kristova,\n
+Da se istini otvaramo,\n
+Da svoju nadu na Krista stavljamo,\n
+Da svoje bližnje istinski ljubimo,\n
+Da Boga iznad svega volimo,\n
+Da budemo pravi Isusovi učenici,\n
+Da svoju krivnju iskreno priznajemo,\n
+Da se često ispovijedamo,\n
+Da svi koji lutaju pronađu put k istini,\n
+Da se grešnici od svoje zloće oslobode,\n
+Da se bezbožnici Bogu obrate,\n\n
+
+Da hrabro po milosti krštenja živimo,\n
+Da prema snazi potvrde djelujemo,\n
+Da se kruhom s neba hranimo,\n
+Da oproštenje od Oca nalazimo,\n
+Da bolesnici zdravlje postignu,\n
+Da službenici crkve spasenje posjeduju,\n
+Da se bračni drugovi u ljubavi učvrste,\n
+Da umiruću u Gospodinu preminu,\n
+Da naši pokojnici u nebo dođu,\n
+Da vjerno Gospodina iščekujemo,\n
+Da Kraljevstvo Božje dođe,\n\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, oprosti nam Gospodine!\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, usliši nas Gospodine!\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, smiluj nam se Gospodine!\n\n
+
+Pomolimo se!\n\n
+Molimo te Gospodine, neka tvoj božanski duh po svom beskrajnom milosrđu očisti naša srca i od svih nas zala oslobodi!\n
+        Po Kristu Gospodinu našem!\n
+        Amen!</string>
+
+    <string name="litanijeDuhuSvetomII">Obećanja Duha Svetoga\n\n
+Ove će se litanije proširiti kao lavina. Tko ih bude širio imati će udjela u njegovim molitvama.\n
+Bilo bi poželjno reći Duhu Svetomu na koju nakanu molimo litanije, dali za druge ili za sebe.\n\n
+
+Obećanje Boga Oca\n\n
+Onima koji će najmanje triput tjedno moliti ove litanije\n
+1. Istrgnut ću te na očigledan način iz ruku neprijatelja.\n
+2. Otkloniti ću zapreke koje ti se nalaze na putu savršenosti.\n
+3. Dat ću ti anđela čuvara koji će te braniti od zasjeda đavolskih.\n
+4. Ti ćeš ustrajati na putu kreposti.\n
+5. Ti ćeš potpuno spoznati svoje nedostatke.\n
+6. Ti ćeš zadobiti snagu da se oslobodiš svojih grešnih navika.\n
+7. Ja ću učvrstiti tvoju vjeru, tvoju nadu i tvoju ljubav.\n
+8. Ja ću te izbaviti iz materijalnih potreba.\n
+9. Tvoja će obitelj živjeti u skladu i uzajamnoj ljubavi.\n
+10. Tko bi želio pomoći svome bližnjemu, treba barem pola godine dnevno moliti ove litanije.\n\n
+
+Litanije\n\n
+
+Slava Ocu i Sinu i Duhu Svetomu!\n
+Kako bijaše na početku, tako i sada i vazda i u vijeke vjekova! Amen!\n\n
+
+1. Duše Sveti, siđi s prijestolja svoje uzvišenosti i nastani se u srcu sluge svojega!\n
+Molimo Te usliši nas!\n\n
+
+2. Duše Sveti, koji si čašćen s Ocem i Sinom, nauči me živjeti u stalnoj nazočnosti Božjoj!\n
+Molimo Te usliši nas!\n\n
+
+3. Duše Sveti, koji si čašćen s Ocem i Sinom, nauči me živjeti po volji Božjoj!\n
+Molimo Te usliši nas!\n\n
+
+4. Duše Sveti, koji živiš u Srcu Sina Božjega, nauči me da Te bolje upoznam i iskrenije ljubim!\n
+Molimo Te usliši nas!\n\n
+
+5. Duše Sveti, koji se brineš za slavu Boga Oca, nauči me živjeti u savršenom predanju i povjerenju u Boga!\n
+Molimo Te usliši nas!\n\n
+
+6. Duše Sveti, koji si se pojavio u obliku gorućih jezika, zapali u mom srcu vatru svoje ljubavi!\n
+Molimo Te usliši nas!\n\n
+
+7. Duše Sveti, koji nemaš naličja niti imena, nauči me ispravno moliti!\n
+Molimo Te usliši nas!\n\n
+
+8. Duše Sveti, otajstvena Golubice, nauči me razumjeti Sveto Pismo!\n
+Molimo Te usliši nas!\n\n
+
+9. Duše Sveti, koji progovaraš preko proroka, nauči me živjeti u miru i ravnoteži duha i duše!\n
+Molimo Te usliši nas!\n\n
+
+10. Duše Sveti, gorući Ognje ljubavi, nauči me živjeti mudro i strpljivo!\n
+Molimo Te usliši nas!\n\n
+
+11. Duše Sveti, prepuna Riznico milosti, nauči me da shvatim vrijednost trpljenja!\n
+Molimo Te usliši nas!\n\n
+
+12. Duše Sveti, Djelitelju svih milosti, nauči me živjeti ponizno i skromno\n
+Molimo Te usliši nas!\n\n
+
+13. Duše Sveti, beskrajna posudo Milosti, nauči me da ispravno koristim dragocijeno vrijeme!\n
+Molimo Te usliši nas!\n\n
+
+14. Duše Sveti, iz čije riznice ništa ne propada, čuvaj me od svake sebičnosti i oholosti!\n
+Molimo Te usliši nas!\n\n
+
+15. Duše Sveti, čije bogatstvo nitko ne može procijeniti, nauči me da se odrečem nekorisnih predodžbi i misli!\n
+Molimo Te usliši nas!\n\n
+
+16. Duše Sveti, Djelitelju svih darova, nauči me da izbjegavam nekorisna djela i besmislene, prazne riječi!\n
+Molimo Te usliši nas!\n\n
+
+17. Duše Sveti, od čije Punine svi mi primismo, nauči me šutjeti i u pravo vrijeme pronaći pravu riječ!\n
+Molimo Te usliši nas!\n\n
+
+18. Duše Sveti, Ti vječna Ljubavi, nauči me davati dobar primjer drugima!\n
+Molimo Te usliši nas!\n\n
+
+19. Duše Sveti, Ti beskrajna Dobroto, podari mi ustrajnost u dobru!\n
+Molimo Te usliši nas!\n\n
+
+20. Duše Sveti, Ti ljubazni Učitelju, nauči me dobrom odnosu s ljudima!\n
+Molimo Te usliši nas!\n\n
+
+21. Duše Sveti, Ti dragi Prijatelju duša, nauči me da nikoga ne osuđujem ili nepravdu izrečem!\n
+Molimo Te usliši nas!\n\n
+
+22. Duše Sveti, Ti usrečujuće Svjetlo duša, nauči me da uočim potrebe drugih i ne propustim nijedno dobro djelo!\n
+Molimo Te usliši nas!\n\n
+
+23. Duše Sveti, Ti Oče bjednika, daj da spoznam svoje pogreške!\n
+Molimo Te usliši nas!\n\n
+
+24. Duše Sveti, Ti koji činiš čudesa u dušama, vodi me kroz budnost do savršenosti!\n
+Molimo Te usliši nas!\n\n
+
+25. Duše Sveti, kojemu ništa nije sakriveno, nauči me odbijati zasjede đavolske!\n
+Molimo Te usliši nas!\n\n
+
+26. Duše Sveti, koji poznaješ budućnost svijeta, pomozi mi da se otrgnem zavodljivostima tijela i đavla!\n
+Molimo Te usliši nas!\n\n
+
+27. Duše Sveti, koji znadeš i moju budućnost, stavi pod svoje okrilje i moju obitelj, moje prijatelje, dobročinitelje i sve ljude!\n
+        Molimo Te usliši nas!\n\n
+
+28. Duše Sveti, nauči me živjeti s Tvojom božanskom pomoći: na veću slavu i čast Božju, za spasenje duša i na radost Božjoj Majci Mariji, te tako jednom uzmognem umrijeti kao korisni sluga Božji!\n
+        Molimo Te usliši nas!\n\n
+
+R. Pošalji Duha svojega i postat će. O. I obnovit ćeš lice zemlje.\n\n
+
+Pomolimo se:\n\n
+
+Bože, koji si svjetlošću Duha Svetoga poučio srca vjernih, daj da u tom istom Duhu što
+je pravo mislimo i njegovoj se utjehi vazda radujemo. Po Kristu Gospodinu našem.\n Amen!</string>
+
+    <string name="miheal">Gospodine, smiluj se!\n
+
+Kriste, smiluj se!\n
+
+Gospodine, smiluj se!\n
+
+Kriste, čuj nas!\n
+
+Kriste, usliši nas!\n
+
+Oče nebeski, Bože, smiluj se nama!\n
+
+Sine, Otkupitelju svijeta, Bože, smiluj se nama!\n
+
+Duše Sveti, Bože, smiluj se nama!\n
+
+Sveto Trojstvo, jedan Bože, smiluj se nama!\n\n
+
+
+
+Sveta Marijo,\n
+
+Sveti Mihaele Arkanđele,\n
+
+Sveti Mihaele, kneže Serafina,\n
+
+Sveti Mihaele, glasniče Gospodina, Boga Izraelova,\n
+
+Sveti Mihaele, Povjereniče Presvetog Trojstva,\n
+
+Sveti Mihaele, Starješino Raja,\n
+
+Sveti Mihaele, najsjajnija zvijezdo anđeoskog zbora,\n
+
+Sveti Mihaele, posredniče božanskih milosti,\n
+
+Sveti Mihaele, najsvjetlije sunce milosrđa,\n
+
+Sveti Mihaele, prvi uzore poniznosti,\n\n
+
+
+
+Sveti Mihaele, primjere blagosti,\n
+
+Sveti Mihaele, prvi plamenu najvatrenije revnosti,\n
+
+Sveti Mihaele, dostojan divljenja,\n
+
+Sveti Mihaele, dostojan štovanja,\n
+
+Sveti Mihaele, dostojan hvale,\n
+
+Sveti Mihaele, službeniče božanske blagosti,\n
+
+Sveti Mihaele, najsnažniji vođo,\n
+
+Sveti Mihaele, djelitelju radosti,\n
+
+Sveti Mihaele, tješitelju klonulih,\n
+
+Sveti Mihaele, anđele mira,\n\n
+
+
+
+Sveti Mihaele, tješitelju bolesnih,\n
+
+Sveti Mihaele, vođo zalutalih,\n
+
+Sveti Mihaele, potporo onima koji se nadaju,\n
+
+Sveti Mihaele, čuvaru onih koji vjeruju,\n
+
+Sveti Mihaele, zaštitniče Crkve,\n
+
+Sveti Mihaele, velikodušni djelitelju,\n
+
+Sveti Mihaele, utočište siromaha,\n
+
+Sveti Mihaele, olakšanje potlačenih,\n
+
+Sveti Mihaele, pobjedniče zlih duhova,\n
+
+Sveti Mihaele, naša snago,\n\n
+
+
+
+Sveti Mihaele, naše utočište,\n
+
+Sveti Mihaele, naš branitelju,\n
+
+Sveti Mihaele, vojskovođo anđela,\n
+
+Sveti Mihaele, utjeho patrijarha,\n
+
+Sveti Mihaele, vođo proroka,\n
+
+Sveti Mihaele, vođo apostola,\n
+
+Sveti Mihaele, utjeho mučenika,\n
+
+Sveti Mihaele, radosti priznavalaca,\n
+
+Sveti Mihaele, čuvaru djevica,\n
+
+Sveti Mihaele, časti svih Svetih,\n\n
+
+
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, oprosti nam Gospodine!\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, usliši nas Gospodine!\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, smiluj se nama!\n\n
+
+
+
+R. Moli za nas, sveti Mihaele Arkanđele!\n
+
+O. Da dostojni postanemo obećanja Kristovih.\n\n
+
+
+
+Pomolimo se.\n\n
+        Gospodine, neka nas moćni zagovor tvog Arkanđela Mihaela uvijek i svugdje zaštiti i oslobodi od svakoga zla te privede u život vječni. \n
+        Po Isusu kristu Gospodinu našemu. \n
+        Amen.
+
+</string>
+
+    <string name="litanijeSvJosipa">
+        Gospodine, smiluj se!\n
+Kriste, smiluje se!\n
+Gospodine, smiluj se!\n
+Kriste, čuj nas!\n
+Kriste, usliši nas!\n\n
+
+Oče nebeski, Bože, smiluj nam se!\n
+Sine, otkupitelju svijeta, Bože , smiluj nam se!\n
+Duše Sveti, Bože, smiluj nam se!\n
+Sveto Trojstvo, jedan Bože, smiluj nam se!\n\n
+
+Sveta Marijo,  moli za nas!\n
+Sveti Josipe, moli za nas!\n
+Slavni porode Davidov, moli za nas!\n
+Svjetlosti patrijarha, moli za nas!\n
+Zaručniće Bogorodice, moli za nas!\n
+Stidljivi čuvaru Djevice, moli za nas!\n
+Hranitelju Sina Božjega, moli za nas!\n
+Brižni Branitelju Kristov, moli za nas!\n
+Glavaru slavne obitelji, moli za nas!\n
+Josipe pravedni, moli za nas!\n
+Josipe prečisti, moli za nas!\n
+Josipe premudri, moli za nas!\n
+Josipe jaki, moli za nas!\n
+Josipe poslušni, moli za nas!\n
+Josipe vjerni, moli za nas!\n
+Ogledalo strpljivosti, moli za nas!\n
+Ljubitelju siromaštva, moli za nas!\n
+Uzore radnika, moli za nas!\n
+Uresu domaćega života, moli za nas!\n
+Čuvaru djevica, moli za nas!\n
+Potporo obitelji, moli za nas!\n
+Utjeho bijednih, moli za nas!\n
+Ufanje bolesnih, moli za nas!\n
+Zaštitniče umirućih, moli za nas!\n
+Strahu zlih duhova, moli za nas!\n
+Pokrovitelju svete Crkve, moli za nas!\n
+Zaštitniče Hrvatske, moli za nas!\n\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, oprosti nam Gospodine!\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, usliši nas Gospodine!\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, smiluj nam se!\n\n
+
+Predmolitelj: Postavio ga je gospodarom doma svojega.\n
+Narod: I poglavarom svega imanja svojega.\n\n
+
+Pomolimo se:\n\n
+Bože, koji si se neiskazanom providnosti udostojao izabrati blaženoga Josipa za zaručnika presvetoj Majci svojoj,
+        daj, molimo, da koga kao pokrovitelja častimo na zemlji,
+        zavrijedimo imati zagovornikom na nebu.\nKoji živiš i kraljuješ u vijeke vjekova.\n
+        Amen.
+    </string>
+
+    <string name="litanijeKrviKristovoj">
+        Gospodine, smiluj se.\n
+Kriste, smiluj se.\n
+Gospodine, smiluj se.\n
+Kriste, čuj nas.\n
+Kriste, usliši nas.\n\n
+
+Oče nebeski Bože, smiluj nam se.\n
+Sine, otkupitelju svijeta, Bože, smiluj nam se.\n
+Duše sveti, Bože, smiluj nam se.\n
+Sveto Trojstvo, jedan Bože, smiluj nam se.\n\n
+Krvi Krista, jedinorođenoga Sina vječnog Oca, spasi nas!\n
+Krvi Krista, utjelovljene riječi Božje, spasi nas!\n
+Krvi Kristova, novoga i vječnoga zavjeta, spasi nas!\n
+Krvi Kristova, u smrtnoj borbi na zemlju potekla, spasi nas!\n
+Krvi Kristova, koja si kod bičevanja izvirala, spasi nas!\n
+Krvi Kristova, ispod trnove krune prokapala, spasi nas!\n
+Krvi Kristova, na križu prolivena, spasi nas!\n
+Krvi Kristova, cijeno našega spasenja, spasi nas!\n
+Krvi Kristova, bez koje nema oproštenja, spasi nas!\n
+Krvi Kristova, u euharistiji okrjepo i čišćenje duša, spasi nas!\n
+Krvi Kristova, rijeko milosrđa, spasi nas!\n
+Krvi Kristova, pobjednice zlih duhova, spasi nas!\n
+Krvi Kristova, snago mučenika, spasi nas!\n
+Krvi Kristova, jakosti priznavalaca, spasi nas!\n
+Krvi Kristova, koja rađaš djevice, spasi nas!\n
+Krvi Kristova, čvrstoćo onih koji su u pogibli, spasi nas!\n
+Krvi Kristova, okrepo umornih, spasi nas!\n
+Krvi Kristova, u plaču utjeho, spasi nas!\n
+Krvi Kristova, nado pokornika, spasi nas!\n
+Krvi Kristova, utjeho umirućih, spasi nas!\n
+Krvi Kristova, mire i milino srdaca, spasi nas!\n
+Krvi Kristova, jamstvo vječnoga života, spasi nas!\n
+Krvi Kristova, koja izbavljaš duše iz čistilišta, spasi nas!\n
+Krvi Kristova, svake slave i časti predostojna, spasi nas!\n\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta, oprosti nam Gospodine.\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, usliši nas Gospodine.\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta, smiluj nam se.\n\n
+
+- Otkupio si nas Gospodine krvlju svojom.\n
+- I postadosmo kraljevstvo Boga našega.\n\n
+
+Pomolimo se:\n\n
+        Svemogući, vječni Bože, ti si jedinorođenoga Sina postavio za otkupitelja svijeta i htio
+        da te njegova krv ublaži: podaj, molimo, da cijenu našega spasenja tako štujemo,
+        a njezina nas snaga tako brani od zala ovoga života na zemlji, da vječni plod svete krvi uživamo na nebu.
+        Po istome Kristu Gospodinu našem.\n
+        Amen.
+    </string>
+
+    <string name="litanijeMarije">
+        Gospodine, smiluj se!\n
+Kriste, smiluj se!\n
+Gospodine, smiluj se!\n
+Kriste, čuj nas!\n
+Kriste, usliši nas!\n\n
+
+Oče nebeski, Bože, smiluj nam se!\n
+Sine, Otkupitelju svijeta, Bože, smiluj nam se!\n
+Duše Sveti, Bože, smiluj nam se!\n
+Sveto Trojstvo, jedan Bože, smiluj nam se!\n\n
+
+                                                                                          Sveta Marijo, MOLI ZA NAS...\n
+                                                                                          Sveta Bogorodice,\n
+                                                                                          Sveta Djevo djevica,\n
+                                                                                          Majko Kristova,\n
+                                                                                          Majko Crkve,\n
+                                                                                          Majko Božje milosti,\n
+                                                                                          Majko prebistra,\n
+                                                                                          Majko prečista,\n
+                                                                                          Majko neoskvrnjena,\n
+                                                                                          Majko nepovrijeđena,\n
+                                                                                          Majko ljubazna,\n
+                                                                                          Majko divna,\n
+                                                                                          Majko dobroga savjeta,\n
+                                                                                          Majko Stvoriteljeva,\n
+                                                                                          Majko Spasiteljeva,\n
+                                                                                          Djevice premudra,\n
+                                                                                          Djevice časna,\n
+                                                                                          Djevice hvale dostojna,\n
+                                                                                          Djevice moguća,\n
+                                                                                          Djevice milostiva,\n
+                                                                                          Djevice vjerna,\n
+                                                                                          Ogledalo pravde,\n
+                                                                                          Prijestolje mudrosti,\n
+                                                                                          Uzroče naše radosti,\n
+                                                                                          Posudo duhovna,\n
+                                                                                          Posudo poštovana,\n
+                                                                                          Posudo uzorna pobožnosti,\n
+                                                                                          Ružo otajstvena,\n
+                                                                                          Tornju Davidov,\n
+                                                                                          Tornju bjelokosni,\n
+                                                                                           Kućo zlatna,\n
+                                                                                           Škrinjo zavjetna,\n
+                                                                                           Vrata nebeska,\n
+                                                                                           Zvijezdo jutarnja,\n
+                                                                                           Zdravlje bolesnih,\n
+                                                                                           Utočište grješnika,\n
+                                                                                           Utjeho žalosnih,\n
+                                                                                           Pomoćnice kršćana,\n
+                                                                                           Kraljice anđela,\n
+                                                                                           Kraljice patrijarha,\n
+                                                                                           Kraljice proroka,\n
+                                                                                           Kraljice apostola,\n
+                                                                                           Kraljice mučenika,\n
+                                                                                           Kraljice priznavalaca,\n
+                                                                                           Kraljice svih svetih,\n
+                                                                                           Kraljice bez grijeha istočnog začeta,\n
+                                                                                           Kraljice na nebo uznesena,\n
+                                                                                           Kraljice svete krunice,\n
+                                                                                           Kraljice obitelji,\n
+                                                                                           Kraljice mira,\n\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta,\n
+oprosti nam, Gospodine.\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta,\n
+usliši nas, Gospodine.\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta,\n
+smiluj nam se.\n\n
+
+Pod tvoju se obranu utječemo, sveta Bogorodice, ne odbij nam molbe u potrebama našim,
+        nego nas od svih pogibli uvijek oslobodi. Djevice slavna i blagoslovljena, Gospođo naša,
+        posrednice naša, zagovornice naša! Sa svojim nas Sinom pomiri, svojemu nas Sinu preporuči, svojemu nas Sinu izruči.\n\n
+
+- Moli za nas, sveta Bogorodice.\n
+- Da dostojni postanemo obećanja Kristovih.\n\n
+
+Pomolimo se.\n\n
+        Bože, ti si htio da po anđelovu navještenju Riječ tvoja uzme tijelo u krilu Blažene Djevice Marije;
+        mi vjerujemo da je ona doista Bogorodica; daj da po njezinu zagovoru nađemo utjehu kod tebe.
+        Po Kristu, Gospodinu našem.\n
+        Amen.
+    </string>
+
+    <string name="litanijeSvRite">
+        Gospodine, smiluj se!\n
+Kriste, smiluj se!\n
+Gospodine, smiluj se!\n
+Kriste, čuj nas!\n
+Kriste, usliši nas!\n\n
+
+Oče nebeski, Bože, smiluj se nama!\n
+Sine, Otkupitelju svijeta, Bože,\n
+Duše Sveti, Bože,\n
+Sveto Trojstvo, jedan Bože,\n\n
+
+Marijo Bezgrješna, Majko Božja, Moli za nas!\n
+Marijo, Majko i utjeho ožalošćenih,\n
+Marijo, kraljice Svih Svetih,\n
+Sveta Rito, naša moćna zagovornice,\n
+Sveta Rito, odabrani daru Neba,\n
+Sveta Rito, zaljubljenice samoće,\n
+Sveta Rito, uzore čistoće,\n
+Sveta Rito, primjere ljubaznosti,\n
+Sveta Rito, savršena suprugo i majko,\n
+Sveta Rito, krasna u odvažnosti,\n
+Sveta Rito, darežljiva u praštanju,\n
+Sveta Rito, hrabra u pokori,\n
+Sveta Rito, udovice mira,\n
+Sveta Rito, darežljiva siromasima,\n
+Sveta Rito, gorljiva za Božji poziv,\n
+Sveta Rito, uzore redovničkog života,\n
+Sveta Rito, odabrana svih vrlina,\n
+Sveta Rito, ispunjena ljubavlju za Raspetog Krista,\n
+Sveta Rito, probodena Isusovim trnom,\n
+Sveta Rito, snažna u Božjoj ljubavi,\n
+Sveta Rito, urešena nebeskom slavom,\n
+Sveta Rito, ponose augustinskog Reda,\n
+Sveta Rito, bogata jedinstvenom snagom,\n
+Sveta Rito, zvijezdo vodiljo zalutalih,\n
+Sveta Rito, pouzdana utjeho ožalošćenih,\n
+Sveta Rito, sidro sigurnosti,\n
+Sveta Rito, sigurnosti u opasnostima,\n
+Sveta Rito, svetice nemogućega,\n
+Sveta Rito, zagovornice beznadnih slučajeva,\n
+Sveta Rito, moćna pomoćnice svih koji te zazivaju,\n\n
+
+Jaganjče Božji, koji oduzimaš grijehe svijeta,\n
+Oprosti nam Gospodine!\n
+Jaganjče Božji, koji oduzimaš grijehe svijeta,\n
+Usliši nas, Gospodine!\n
+Jaganjče Božji,koji oduzimaš grijehe svijeta,\n
+Smiluj se nama!\n\n
+
+R. Gospodine, označio si Ritu,\n
+O. znakom svoga milosrđa i svoje muke!\n
+
+Pomolimo se:\n\n
+        Bože, u Svojoj si se beskrajnoj blagosti udostojao s ljubavlju osvrnuti na Svoju vjernu službenicu Sv. Ritu i uslišati njene molitve za ono što je nemoguće ljudskim naporima i nastojanjima.
+        Smiluj nam se i pomozi nam u našim nesrećama, kako bi svi upoznali da si Ti nagrada poniznih, odbrana napuštenih i jakost onih koji vjeruju u Tebe.\n
+        Amen.
+    </string>
+
+</resources>

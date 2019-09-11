@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartingPageActivity"
+    android:background="@drawable/gradient">
+
+
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="wrap_content"
+        android:layout_height="450dp"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/cross1" />
+
+
+    <RelativeLayout
+        android:id="@+id/buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/picture"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="10dp">
+
+        <Button
+            android:id="@+id/kalendar_button"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="81dp"
+            android:layout_marginEnd="80dp"
+            android:layout_marginBottom="4dp"
+            android:layout_toStartOf="@+id/molitva_button"
+            android:layout_toEndOf="@+id/izađi_button"
+            android:background="@drawable/calendar" />
+
+        <Button
+            android:id="@+id/molitva_button"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/ruke" />
+
+        <Button
+            android:id="@+id/izađi_button"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/exit" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
